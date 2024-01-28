@@ -4,12 +4,18 @@
 
 
 <h2>About myself:<img align="right" src="media/dancing_girl.gif"/></h2>
+<h1></h1>
 <p>🟣<i> I am interested in business, generative models, sports and rock</i></p>
 <p>🟣<i> I believe in humanity and that the Earth is round</i></p>
 <p>🟣<i> My slogan: “What? — So what? — Now What?”</i></p>
 
 
-
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
 
 <h2>In retirement I want:<img align="left" src="media/no_bckgd/hacker.gif"/></h2>
 <p>🟣<i> Family, good wine, computer games & try to make a robot</i></p>

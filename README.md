@@ -24,8 +24,10 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
-<h2>In retirement I want:<img align="left" src="media/no_bckgd/hacker.gif"/></h2>
+<h2 align="right">In retirement I want<img align="left" src="media/no_bckgd/hacker.gif"/></h2>
 <p>🟣<i> Family, good wine, computer games & try to make a robot</i></p>
 <p>🟣<i> Trips and chill at sunny countries</i></p>
 <p>🟣<i> To get a dog</i></p>

@@ -1,49 +1,13 @@
 ![Header](media/ml.gif)
-<style>
-    p {
-        font-family: Verdana, Arial, Helvetica, sans-serif; 
-        font-size: 15pt; /* Размер шрифта в пунктах */
 
-[//]: # (        margin-bottom: 100px;)
-        margin-right: 150px;
-        margin-left: 30px;
-   }
+<h1 align="center" style="color: #CC66FF;" >Hello, I'm Egor! Nice to meet You!</h1>
 
-    img {
-        margin-bottom: 0px;
-        margin-right: 100px;
-        margin-left: 80px;
-    }
-
-    h1 {
-        text-align: center;
-        margin-top: 50px;
-        color: #CC66FF;
-    }
-
-    h2 {
-        margin-top: 50px;
-
-[//]: # (        color: #CC66FF;)
-    }
-    
-    div {
-        margin-top: 100px;
-        margin-bottom: 20px;
-        margin-right: 0px;
-        margin-left: 0px;
-    }
-</style>
-
-<div>
 <h1>
-    <h1>Hello, I'm Egor! Nice to meet You!</h1>
     <h2>About myself:<img align="right" src="media/dancing_girl.gif"/></h2>
     <p>🟣<i> I am interested in business, generative models, sports and rock</i></p>
     <p>🟣<i> I believe in humanity and that the Earth is round</i></p>
     <p>🟣<i> My slogan: “What? — So what? — Now What?”</i></p>
 </h1>
-</div>
 
 
 <h1>

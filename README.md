@@ -4,12 +4,14 @@
 
 
 <h2>About myself:<img align="right" src="media/dancing_girl.gif"/></h2>
-<h1></h1>
+<br />
 <p>🟣<i> I am interested in business, generative models, sports and rock</i></p>
 <p>🟣<i> I believe in humanity and that the Earth is round</i></p>
 <p>🟣<i> My slogan: “What? — So what? — Now What?”</i></p>
 
 
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -28,13 +30,15 @@
 <p>🟣<i> Trips and chill at sunny countries</i></p>
 <p>🟣<i> To get a dog</i></p>
 
-
+<br />
+<br />
+<br />
 
 <td>
-<h1>Working or have experience</h1>  
+<h1 align="center" style="color: #CC66FF;" >Working or have experience</h1>  
 <table><tr><td valign="top" width="33%">
 
-<p align="center">Languages</p>  
+<p align="center"><b>Languages</b></p>  
 <div> 
 <img alt="Static Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -49,7 +53,7 @@
 <td valign="top" width="33%">
 
 
-<p align="center">Data</p>  
+<p align="center"><b>Data</b></p>  
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
 
@@ -63,7 +67,7 @@
 
 <td valign="top" width="33%">
 
-<p align="center">Frameworks</p>
+<p align="center"><b>Frameworks</b></p>
 <div align="center">  
 <img alt="Static Badge" src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">

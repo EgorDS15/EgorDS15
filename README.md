@@ -10,12 +10,18 @@
 <p>🟣<i> My slogan: “What? — So what? — Now What?”</i></p>
 
 
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
-<h1></h1>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <h2>In retirement I want:<img align="left" src="media/no_bckgd/hacker.gif"/></h2>
 <p>🟣<i> Family, good wine, computer games & try to make a robot</i></p>

@@ -3,23 +3,12 @@
 <h1 align="center" style="color: #CC66FF;" >Hello, I'm Egor! Nice to meet You!</h1>
 
 
-<h2>About myself:<img align="right" src="media/dancing_girl.gif"/></h2>
+<h2>About myself:<img align="right" width=180 src="media/dancing_girl.gif"/></h2>
 <br />
 <p>🟣<i> I am interested in business, generative models, sports and rock</i></p>
 <p>🟣<i> I believe in humanity and that the Earth is round</i></p>
 <p>🟣<i> My slogan: “What? — So what? — Now What?”</i></p>
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />

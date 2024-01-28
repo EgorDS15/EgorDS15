@@ -1,16 +1,16 @@
-### Hi there 👋
+![Header](media/ml.gif)
 
-<!--
-**EgorDS15/EgorDS15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (![Header]&#40;media/ml_wide.gif&#41;)
+# <center>Hello, I'm You from Future<center>
+[//]: # (![Header]&#40;media/sands.gif&#41;)
+# <center>![Header](media/ai_face.gif)</center>
 
-Here are some ideas to get you started:
+[//]: # (![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=EgorDS15&theme=jolly&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&#41;)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorDS15&theme=ambient_gradient&hide_progress=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Header](media/dancing_girl.gif)
+![Header](media/men_table.gif)
+![Header](media/fire.gif)![Header](media/fire.gif)![Header](media/fire.gif)
+![Header](media/trustme.gif)
+
+[//]: # (![Header]&#40;media/result.gif&#41;)

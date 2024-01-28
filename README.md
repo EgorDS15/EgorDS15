@@ -3,11 +3,11 @@
 <h1 align="center" style="color: #CC66FF;" >Hello, I'm Egor! Nice to meet You!</h1>
 
 
-<h2>About myself:<img align="right" width=180 src="media/dancing_girl.gif"/></h2>
+<h2>About myself<img align="right" width=180 src="media/dancing_girl.gif"/></h2>
 <br />
-<p style="margin-left:50px">🟣<i> I am interested in business, generative models, sports and rock</i></p>
-<p style="margin-left:50px">🟣<i> I believe in humanity and that the Earth is round</i></p>
-<p style="margin-left:50px">🟣<i> My slogan: “What? — So what? — Now What?”</i></p>
+<p>🟣<i> I am interested in business, generative models, sports and rock</i></p>
+<p>🟣<i> I believe in humanity and that the Earth is round</i></p>
+<p>🟣<i> My slogan: “What? — So what? — Now What?”</i></p>
 
 <br />
 <br />
@@ -17,10 +17,12 @@
 <br />
 
 <h2 align="right">In retirement I want<img align="left" src="media/no_bckgd/hacker.gif"/></h2>
-<p style="margin-left:50px">🟣<i> Family, good wine, computer games & try to make a robot</i></p>
-<p style="margin-left:50px">🟣<i> Trips and chill at sunny countries</i></p>
-<p style="margin-left:50px">🟣<i> To get a dog</i></p>
+<p>🟣<i> Family, good wine, computer games & try to make a robot</i></p>
+<p>🟣<i> Trips and chill at sunny countries</i></p>
+<p>🟣<i> To get a dog</i></p>
 
+<br />
+<br />
 <br />
 <br />
 <br />
